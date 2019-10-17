@@ -48,4 +48,3 @@ const a = {
 
 tim.dialogue.call(tom);
 tom.dialogue.apply(tim);
-tim.dialogue.apply(tom);
